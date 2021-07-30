@@ -1,6 +1,6 @@
 package linkedlist;
 
-public class testLinkedList {
+public class TestLinkedList {
 	// add declerations
 	
 	
@@ -32,5 +32,5 @@ public class testLinkedList {
 //		amotzlist.remove(5)
 //		
 //		// check if the the list is empty
-//	}
-//}
+	}
+}
